@@ -1,15 +1,15 @@
 ### Задача 1
-файл со скрином успешного запуска Freestyle Job 1-freestyle.png
+[файл](1-freestyle.png) со скрином успешного запуска Freestyle Job 
 
 ### Задача 2
-файл со скрином успешного запуска Declarative Pipeline 2-pipeline.png
+[файл](2-pipeline.png) со скрином успешного запуска Declarative Pipeline 
 
 ### Задача 3
-файл Jenkinsfile в репе
+файл [Jenkinsfile](Jenkinsfile) в репе
 
 ### Задача 4
 перенастроил джобу на поиск пайплайна в репе. 
-<br>скрины успешного запуска и конфига 4-pipegit.png и 4-pipegitconfig.png
+<br>скрины успешного [запуска](4-pipegit.png) и [конфига](4-pipegitconfig.png)
 
 ### Задача 5
-правленный файл ScriptedJenkinsfile в репе
+правленный файл [ScriptedJenkinsfile](ScriptedJenkinsfile) в репе
